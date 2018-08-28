@@ -3,6 +3,15 @@ This repository contains JavaScript code for programs on the CoSpaces VR platfor
 
 A very helpful group of people: https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!forum/cospaces-scripting
 
+WE ARE MOVING
+
+Hey everyone!
+
+We have created new and better forums for CoSpaces Edu (http://forum.edu.cospaces.io/) and CoSpaces Maker (http://forum.maker.cospaces.io/).
+
+Please create an account in these forums if you want to continue exchanging with us there.
+We look forward to seeing you in the new forums!
+
 Other Materials:
 While you can code and render 3D scenes right on your computer/tablet, to view them in virtual reality, you'll need viewers or goggles (Google Cardboard V2 or IAMCARDBOARD V2 are recommended as they are very affordable (under $10) and work even on phones without a compass), and a smart phone with Android version 4.1 or higher (most phones are like this) and a gyroscope (be sure to check your specs!) and a compass if your cardboard uses a magnet button.  
 
